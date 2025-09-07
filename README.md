@@ -50,11 +50,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Reennaan/Reennaan/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Reennaan/profilereadme/refs/heads/main/snake.yml" alt="Snake animation" />
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/eqtuyjxzhzvd72w22uuvwkaun">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=eqtuyjxzhzvd72w22uuvwkaun&count=5&unique=true" alt="Spotify recently played"  />
   </a>
@@ -63,7 +63,7 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/neocities.svg" width="52" height="40" alt="linkedin logo"  />
 </div>
 
 ###
