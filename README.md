@@ -52,10 +52,18 @@
 
 <h2>Social Media</h2>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/neocities.svg" href="https://hiddenwoods.neocities.org/" width="45" height="40" alt="neocities">&emsp;
-  <img src="https://www.vectorlogo.zone/logos/spotify/spotify-tile.svg" href="https://open.spotify.com/user/eqtuyjxzhzvd72w22uuvwkaun?si=8f1d192b8093498f" width="30" height="40" alt="spotify">&emsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Lastfm_logo.svg" href="https://www.last.fm/pt/user/Shalashaska-" width="100" height="60" alt="lastfm">&emsp;
-  <img src="https://www.codewars.com/users/Shalashaska00/badges/micro" href="https://www.codewars.com/users/Shalashaska00" width="150" height="60" alt="lastfm">
+  <a href="https://hiddenwoods.neocities.org/" style="text-decoration:none;">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/neocities.svg" width="45" height="40" alt="neocities">
+  </a>&emsp;
+  <a href="https://open.spotify.com/user/eqtuyjxzhzvd72w22uuvwkaun?si=8f1d192b8093498f" style="text-decoration:none;">
+    <img src="https://www.vectorlogo.zone/logos/spotify/spotify-tile.svg" width="30" height="40" alt="spotify">
+  </a>&emsp;
+  <a href="https://www.last.fm/pt/user/Shalashaska-" style="text-decoration:none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Lastfm_logo.svg" width="100" height="60" alt="lastfm">
+  </a>&emsp;
+  <a href="https://www.codewars.com/users/Shalashaska00" style="text-decoration:none;">
+    <img src="https://www.codewars.com/users/Shalashaska00/badges/micro" width="150" height="60" alt="codewars">
+  </a>
 </div>
 <br>
 <div align="left">
