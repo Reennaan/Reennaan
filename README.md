@@ -2,6 +2,7 @@
 
 <img src= "https://i.imgur.com/MOPbeAd.jpeg" height="200">
 
+![Snake animation](https://github.com/Reennaan/Reennaan/blob/output/github-contribution-grid-snake.svg)
 
 
 
